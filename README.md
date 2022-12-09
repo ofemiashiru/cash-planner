@@ -1,5 +1,6 @@
 # Cash Planner App
 Technologies: React | Express | NodeJS | PostgreSQL
+![cash-planner-responsive]()
 
 Developed with the goal to help users better manage their finances and therefore lead to greater financial health. I utilised three main technologies React for the client-side NodeJS for the server-side and PostgreSQL for Database integration.
 
