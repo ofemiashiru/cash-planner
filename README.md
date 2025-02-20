@@ -8,9 +8,3 @@ The Cash Planner App also allows users to register and login with their unique c
 
 This App utilises Googles React Charts which help visually break down a users incoming and outgoings as well as a calendar break down to show users how much they can save each day to reach their financial goals.
 
-[Live Page](https://cash-planner-beta.herokuapp.com/)
-
-## User credentials to use on site
-|email|test_user@tester.com|
-|-----|-------------------|
-|password|test_1234|
